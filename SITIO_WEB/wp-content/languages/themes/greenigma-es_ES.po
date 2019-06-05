@@ -1,0 +1,32 @@
+# Translation of Themes - Greenigma in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Greenigma package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-19 18:09:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Greenigma\n"
+
+#. Description of the theme
+msgid "Greenigma is a Modern Material Design WordPress Theme. It is a child theme of most famous WordPress theme Enigma. It is intuitive and easy to use, robust and reliable, highly flexible and fully responsive theme. Based on live customizer, the theme allows to preview the changes as you go. It is the perfect theme for the professionals, bloggers, and creative personnel’s website, as it provides a clean and flexible appearance, an elegant portfolio, and a catchy online shop. The theme is translation ready, fully SEO optimized, fast loading and is fully compatible with woo commerce and all other major WordPress plugins."
+msgstr "Greenigma es un tema WordPress moderno basado en material design. Es un tema hijo del tema de WordPress Enigma. Es intuitivo y fácil de usar, robusto y fiable, altamente flexible y totalmente adaptable. Basado en el personalizador en vivo, el tema permite previsualizar los cambios a medida que se avanza. Es el tema perfecto para los profesionales, bloggers, y el sitio web del personal creativo, ya que proporciona una apariencia limpia y flexible, un portfolio elegante, y una tienda en línea pegadiza. El tema está listo para la traducción, totalmente optimizado para SEO, de carga rápida y es totalmente compatible con WooCommerce y todos los principales plugins de WordPress."
+
+#. Theme Name of the theme
+msgid "Greenigma"
+msgstr "Greenigma"
+
+#: header.php:91
+msgid "Toggle navigation"
+msgstr "Cambiar navegación"
+
+#. Author URI of the theme
+msgid "http://www.weblizar.com"
+msgstr "http://www.weblizar.com"
+
+#. Author of the theme
+msgid "weblizar"
+msgstr "weblizar"
